@@ -1,0 +1,35 @@
+[21-Jan-2025 11:43:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[21-Jan-2025 11:44:04 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[21-Jan-2025 11:45:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[21-Jan-2025 12:01:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'Fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[21-Jan-2025 12:02:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[21-Jan-2025 12:03:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
+[15-Feb-2025 08:17:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'fatima' for key 'users.username' in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php:10
+Stack trace:
+#0 /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php(10): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/rsoa72.rehan.school/public_html/grasshopper/signup.php on line 10
